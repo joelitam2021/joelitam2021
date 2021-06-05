@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hello I am Joel Jaramillo  👋
 
-- 🌱 I’m currently learning Data Science 
--[id]: https://github.com/joelitam2021/joelitam2021/blob/imagenes/iphone%2011%20joel%20044.JPG  "imagen principal"
+### 🌱 I’m currently learning Data Science 
+
 
 <!--
 **joelitam2021/joelitam2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
